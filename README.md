@@ -1,6 +1,9 @@
-# MixedPointCloud
-PointCloud add noise
+# KANFilter: A simple and effective multi-module point cloud denoising model
 
-After the journal accept the source data will coming soon.
+The paper has been published in Cluster Computing journal.
+
+Data can be obtained from the following public account
+
+<img src="wechat.png" alt="teaser" width="50%" />
 
 The source code  will see at https://github.com/zhouxyly/KANFilter
